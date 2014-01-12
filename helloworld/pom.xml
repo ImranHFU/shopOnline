@@ -32,7 +32,7 @@
           <source>1.7</source>
           <target>1.7</target>
            <fork>true</fork>
-        <executable>${JAVA_1_7_HOME}/bin/javac</executable>
+         <executable>${JAVA_HOME}/bin/javac</executable>
         </configuration>
       </plugin>
     </plugins>
