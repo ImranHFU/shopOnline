@@ -5,8 +5,15 @@
   <groupId>helloworld</groupId>
   <artifactId>helloworld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <!--  ource file encoding  -->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
+    
+ 
+    
     <plugins>
 <!--  <plugin>
     <groupId>org.apache.maven.plugins</groupId>
